@@ -1,4 +1,4 @@
-# Deep-DORM
+# DORM
 
 This repository contains the source code and instructions for **DORM**. You should be able to download the code and set up the environment within five minutes.
 
