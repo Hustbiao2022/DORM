@@ -49,7 +49,7 @@ The installation takes about 5 minutes on the tested platform, though it may tak
 3. Set the parameters in **3D data parameters** or **ISO parameters**:
 
     - **For enhancement/SR network:** Configure parameters in ‘3D data parameters’ to generate processed LR data.
-        - **LR path:** Click the ‘Choose’ button and select raw LR data on your computer.
+        - **LR path:** Click on the ‘Choose’ button and select the folder containing raw low-resolution (LR) data.
         - **GAN model:** Choose whether to use the GAN model during training.
 
     - **For ISO net:** Configure parameters in the ‘ISO parameters’ panel to generate synthetic anisotropic data.
